@@ -1,6 +1,0 @@
-numero1 = int(input("Ingrese el primer numero: "))
-numero2 = int(input("Ingrese el segundo numero: "))
-print ("Su suma es: " + str(numero1 + numero2))
-print ("Su resta es: " + str(numero1 - numero2))
-print ("Su multiplicacion es: " + str(numero1 * numero2))
-print ("Su division es: " + str(numero1 / numero2))
